@@ -1,0 +1,51 @@
+ID,Name,Age,BP,Cholesterol,BloodGroup,Diagnosis
+101,Rajesh Kumar,45,125,175,O+,Healthy
+102,Priya Sharma,52,145,210,A+,Hypertension
+103,Amit Patel,38,118,165,B+,Healthy
+104,Sunita Verma,61,155,235,AB+,Heart Disease
+105,Vikram Singh,29,120,170,O-,Healthy
+106,Anita Reddy,48,138,195,A+,Pre-Diabetes
+107,Suresh Gupta,67,160,245,B+,Hypertension
+108,Kavita Joshi,34,115,160,O+,Healthy
+109,Rahul Mehta,55,142,208,A-,Diabetes
+110,Deepa Nair,42,128,182,B+,Healthy
+111,Arun Khanna,59,148,225,AB+,Heart Disease
+112,Meera Iyer,31,112,155,O+,Healthy
+113,Sanjay Desai,64,158,238,A+,Hypertension
+114,Pooja Rao,27,108,150,B-,Healthy
+115,Manish Agarwal,51,135,192,O+,Pre-Diabetes
+116,Rekha Pillai,46,130,185,A+,Healthy
+117,Nitin Saxena,70,165,250,B+,Heart Disease
+118,Anjali Chopra,35,122,172,AB-,Healthy
+119,Ravi Malhotra,58,150,220,O+,Diabetes
+120,Neha Bansal,26,110,148,A+,Healthy
+121,Kiran Bhatia,62,152,232,B+,Hypertension
+122,Ashok Tiwari,40,125,178,O-,Healthy
+123,Shweta Dubey,53,144,212,A+,Diabetes
+124,Vivek Pandey,33,118,168,B+,Healthy
+125,Geeta Mishra,49,136,198,AB+,Pre-Diabetes
+126,Rohit Kulkarni,37,121,174,O+,Healthy
+127,Sonal Kapoor,65,162,242,A-,Heart Disease
+128,Ajay Shetty,28,115,158,B+,Healthy
+129,Radha Menon,56,146,215,O+,Hypertension
+130,Praveen Das,43,132,188,A+,Healthy
+131,Nisha Arora,60,154,230,B-,Diabetes
+132,Tarun Ghosh,30,113,152,AB+,Healthy
+133,Vandana Seth,47,134,190,O+,Pre-Diabetes
+134,Mukesh Jain,68,163,248,A+,Heart Disease
+135,Sapna Bose,36,124,176,B+,Healthy
+136,Dinesh Kaur,54,140,205,O-,Diabetes
+137,Rita Mathur,24,105,145,A+,Healthy
+138,Sunil Chadha,63,156,236,B+,Hypertension
+139,Kamala Prasad,41,127,180,AB-,Healthy
+140,Arjun Naidu,57,148,218,O+,Heart Disease
+141,Lata Dutta,32,116,162,A+,Healthy
+142,Manoj Kohli,50,137,200,B+,Pre-Diabetes
+143,Usha Saini,44,129,183,O+,Healthy
+144,Vijay Ahuja,66,161,240,A-,Hypertension
+145,Asha Hegde,25,107,146,B+,Healthy
+146,Gaurav Mittal,39,123,171,AB+,Healthy
+147,Smita Pawar,72,168,255,O+,Heart Disease
+148,Naresh Thakur,35,119,166,A+,Healthy
+149,Divya Rajan,48,133,194,B-,Pre-Diabetes
+150,Pankaj Goel,61,153,228,O+,Diabetes
