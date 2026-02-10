@@ -4,6 +4,8 @@
 ![Swing](https://img.shields.io/badge/Swing-478CBF?style=for-the-badge&logo=swing&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+(https://github.com/isthis-rishi/Healthcare-Data-Mining-Risk-Analysis-System/blob/main/Project%20files/image.png)
+
 A comprehensive Java desktop application for analyzing medical patient data, performing risk assessment, and generating health insights through interactive data mining techniques.
 
 ## ✨ Features
